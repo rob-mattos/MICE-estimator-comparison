@@ -1,0 +1,21 @@
+,Dataset,pct_missing,n,Attributes,ratio_attributes to instances,pct_metric,pct_binary,pct_categorical,Mean of numeric values,Std of numeric values,Avg distinct values of categorical variables,pct_outliers,pct_normally distributed attributes,AVG Skewness,AVG Kurtosis,pct_highly correlated variables (>.4),Best estimator
+0,Parkinson,29.39,195,23,0.1179,95.65,4.35,0.0,22.2,8.3,0,4.93,17.39,1.6969,5.511,50.59,Bayesian Regression
+1,Gender inequality,28.97,140,9,0.0643,100.0,0.0,0.0,59.77,43.36,0,1.9,22.22,0.5957,1.3484,27.78,No difference
+2,Humor Styles,29.65,989,37,0.0374,10.81,0.0,89.19,3.02,1.08,4,2.31,2.7,0.4976,0.9196,7.21,No difference
+3,Long Beach,29.55,92,22,0.2391,36.36,31.82,31.82,3.29,3.99,10,6.13,9.09,1.8379,6.7495,2.16,No difference
+4,NLS marital,29.51,6130,7,0.0011,0.0,0.0,100.0,0.94,0.82,4,26.76,0.0,1.6746,4.6961,52.38,No difference
+5,NLS attended,29.51,18513,7,0.0004,100.0,0.0,0.0,13.05,4.35,0,3.42,0.0,12.4927,233.4655,100.0,No difference
+6,NLS employment,29.48,11822,7,0.0006,0.0,0.0,100.0,2.05,1.74,7,13.69,0.0,1.1629,0.6948,38.1,No difference
+7,Big Five,29.51,19231,52,0.0027,0.0,1.92,98.08,3.1,1.16,4,1.2,0.0,0.4966,0.7423,3.85,No difference
+8,Cattell,29.54,6098,164,0.0269,0.0,0.0,100.0,3.14,1.08,4,2.73,0.0,0.4815,0.6982,1.5,Random Forest
+9,Baltimore family health,29.76,41,5,0.122,100.0,0.0,0.0,93.74,29.76,0,2.93,80.0,0.4962,0.7069,20.0,No difference
+10,Epileptic seizure,29.5,1294,179,0.1383,99.44,0.0,0.56,-11.03,222.95,5,13.4,0.0,0.5644,9.963,3.55,Bayesian Regression
+11,Fisher temperament,29.53,3829,109,0.0285,0.92,20.18,78.9,0,0,4,3.08,0.0,1.2009,5.135,1.39,No difference
+12,Machivallianism,29.54,17240,58,0.0034,3.45,27.59,68.97,2.96,1.38,5,4.1,0.0,3.5184,300.476,2.24,No difference
+13,MGKT,29.51,19204,35,0.0018,2.86,0.0,97.14,0,0,9,1.85,0.0,0.5682,0.6645,3.87,Random Forest
+14,MRI,29.5,3453,168,0.0487,100.0,0.0,0.0,1333.49,2726.55,0,18.85,0.0,2.5096,5.8152,99.56,Bayesian Regression
+15,NPI,29.55,10337,43,0.0042,4.65,93.02,2.33,2.54,0.95,3,4.55,0.0,0.809,1.2945,2.1,No difference
+16,TMA,29.57,4468,53,0.0119,3.77,94.34,1.89,2.01,0.62,3,5.15,0.0,0.8851,1.4888,1.09,No difference
+17,VHA facility,29.57,105,23,0.219,65.22,30.43,4.35,570.45,309.56,3,3.27,8.7,1.2114,2.5946,18.97,No difference
+18,VIQT,29.51,2153,83,0.0386,4.82,1.2,93.98,8.33,2.18,7,5.3,0.0,3.1928,39.4677,0.38,No difference
+19,WPI,29.57,3832,118,0.0308,0.85,98.31,0.85,1.81,0.52,3,6.92,0.0,1.1883,3.2452,0.2,Random Forest
